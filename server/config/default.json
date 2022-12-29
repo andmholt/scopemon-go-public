@@ -1,0 +1,9 @@
+{
+    "jwtSecret": "",
+    "mongoURI": "",
+
+    "sendgridAPIKey": "",
+    "sendgridVerifiedSender": "",
+
+    "serverURL": ""
+}
